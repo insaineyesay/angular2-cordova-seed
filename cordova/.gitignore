@@ -1,0 +1,12 @@
+config.xml
+
+www/*
+!www/.keep
+
+platforms/browser
+platforms/ios
+platforms/android
+
+plugins/*
+!plugins/*.json
+plugins/android.json
